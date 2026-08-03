@@ -1,0 +1,67 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/bug_hunter.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE000"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/bb_artist.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE001"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/bb_developer.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE002"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/ls.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE008"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/bb.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE003"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/bb_sound.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE004"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/bb_writer.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE005"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/bb_boss.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE006"]
+    },
+    {
+      "type": "bitmap",
+      "file": "bluebirdlib:icons/bb_media.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": ["\uE007"]
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+/checkContent
+/weather clear
+/checkContent
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/checkContent
+/summon bluebirdlib:test
+/weather clear
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/checkContent
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/checkContent
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/checkContent
+/summon bluebirdlib:test
+/checkContent
+/weather clear
+/checkContent
+/summon bluebirdlib:test
+/effect give @p minecraft:resistance infinite 255 true
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test
+/time set midnight
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test ~ ~ ~ {NoAI:1b}
+/kill @e[type=bluebirdlib:test]
+/summon bluebirdlib:test ~ ~ ~ {NoAI:1b}
+/time set day
+/checkContent
